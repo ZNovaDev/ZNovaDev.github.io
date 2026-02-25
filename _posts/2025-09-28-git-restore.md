@@ -1,6 +1,6 @@
 ---
 title: Git 回滚命令快查表
-date: 2024-02-25
+# date: 2024-02-25
 categories: [技术, 教程]
 tags: [git, 回滚]
 ---
